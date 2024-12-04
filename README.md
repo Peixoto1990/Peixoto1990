@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá! Me chamo Aluilson. 
+### Sou estudante de programação, com foco em front-end. Fique à vontade para explorar.
+#### Este arquivo está em construção. 👋
 
 <!--
 **Peixoto1990/Peixoto1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
